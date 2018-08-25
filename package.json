@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpillora/node-load-tester.git"
+    "url": "https://github.com/Madhuresan/node-load-tester.git"
   },
   "author": "Jaime Pillora <dev@jpillora.com>",
   "license": "MIT",
   "gruntSource": {
     "source": "~/.grunt-sources/node",
-    "repo": "https://github.com/jpillora/grunt-source-node.git"
+    "repo": "https://github.com/Madhuresan/node-load-tester.git"
   },
   "readmeFilename": "README.md",
   "dependencies": {
